@@ -1,0 +1,9 @@
+//LATIHAN REPOSITORY dan GIT
+
+LATIHAN GIT 2
+Dengan memasukkan file dalam bentuk.txt
+
+Created By : Amanda Pridayu
+Alamat 	   : Depok
+Jurusan    : Teknik Informatika
+UNIVERSITAS PANCASILA
