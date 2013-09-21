@@ -1,0 +1,11 @@
+//LATIHAN REPOSITORY dan GIT
+
+LATIHAN GIT 3
+Dengan memasukkan file dalam bentuk.txt
+
+Created By : Amanda Pridayu
+Alamat 	   : Depok
+Jurusan    : Teknik Informatika
+Jenis Kelamin : Perempuan
+Semester   : 3
+UNIVERSITAS PANCASILA
