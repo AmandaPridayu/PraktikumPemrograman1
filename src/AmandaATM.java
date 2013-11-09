@@ -1,4 +1,6 @@
 //Latihan Membuat Informasi ATM
+//Created By : Amanda Pridayu 
+
 package Latihan01.sesi1.bin;
 
 public class AmandaATM

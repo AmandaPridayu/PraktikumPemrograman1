@@ -6,3 +6,8 @@ public class C19C20 {
 	}
 }
 
+
+
+
+//class adalah sebuah cetakan 
+//object adalah sebuah barang dari hasil cetakan 
